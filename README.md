@@ -1,4 +1,4 @@
-# Likelihood Prediction of Diabetes
+# Diabetes Likelihood Prediction
 
 < add intro>
 
