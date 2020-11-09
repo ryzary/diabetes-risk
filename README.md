@@ -1,6 +1,17 @@
-# Diabetes Likelihood Prediction
+# Diabetes Risk Prediction
 
-< add intro>
+## Introduction
+Approximately 50% of people with diabetes are undiagnosed due to its long period of asymptomatic phase (Islam et al.,2020). Therefore, early detection of diabetes is crucial.
+This project aims to predict the likelihood of having diabetes by using the data of newly diabetic or would be diabetic patient from the Sylhet Diabetes Hospital in Bangladesh.
 
-paper: https://link.springer.com/chapter/10.1007/978-981-13-8798-2_12
-dataset: http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
+## Dataset
+http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
+Attributes:
+
+
+
+
+## Reference
+Islam M.M.F., Ferdousi R., Rahman S., Bushra H.Y. (2020) Likelihood Prediction of Diabetes at Early Stage Using Data Mining Techniques. In: Gupta M., Konar D., Bhattacharyya S., Biswas S. (eds) Computer Vision and Machine Intelligence in Medical Image Analysis. Advances in Intelligent Systems and Computing, vol 992. Springer, Singapore. https://doi.org/10.1007/978-981-13-8798-2_12
+
+
