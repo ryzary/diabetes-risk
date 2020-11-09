@@ -14,7 +14,6 @@ Age, Gender, Polyuria, Polydipsia, Polyphagia, Irritability, Delayed healing, Ge
 (Definitions are provided in EDA_feature_selection.ipynb)
 
 ## EDA
-Highlight
 ![alt text](https://github.com/ryzary/diabetes-risk/blob/main/img/symptoms_occurence_pn.png)
 
 
