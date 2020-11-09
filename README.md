@@ -11,6 +11,13 @@ Attributes:
 Age, Gender, Polyuria, Polydipsia, Polyphagia, Irritability, Delayed healing, Genital thrush,Partial paresis, Alopecia, Class.
 (Definitions are provided in EDA_feature_selection.ipynb)
 
+## EDA
+Highlights:
+
+
+## Model Accuracy
+- Logistic Regression: 0.92
+- Random Forest Classifier: 0.99
 
 
 
