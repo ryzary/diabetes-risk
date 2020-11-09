@@ -4,7 +4,7 @@
 Approximately 50% of people with diabetes are undiagnosed due to its long period of asymptomatic phase (Islam et al.,2020). Early detection of diabetes is therefore crucial.
 <br>
 <br>
-This project aims to predict the likelihood of having diabetes by using the data of newly diabetic or would be diabetic patient from the Sylhet Diabetes Hospital in Bangladesh.
+This project aims to predict the likelihood of having diabetes using the data of newly diabetic and potentially diabetic patients from the Sylhet Diabetes Hospital in Bangladesh.
 
 ## Dataset
 http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
