@@ -8,6 +8,8 @@ This project aims to predict the likelihood of having diabetes by using the data
 http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
 <br>
 Attributes:
+Age, Gender, Polyuria, Polydipsia, Polyphagia, Irritability, Delayed healing, Genital thrush,Partial paresis, Alopecia, Class.
+(Definitions are provided in EDA_feature_selection.ipynb)
 
 
 
