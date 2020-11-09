@@ -6,6 +6,7 @@ This project aims to predict the likelihood of having diabetes by using the data
 
 ## Dataset
 http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
+<br>
 Attributes:
 
 
