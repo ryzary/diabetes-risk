@@ -14,12 +14,16 @@ Age, Gender, Polyuria, Polydipsia, Polyphagia, Irritability, Delayed healing, Ge
 (Definitions are provided in EDA_feature_selection.ipynb)
 
 ## EDA
-Highlights:
+### Attributes with Respect to "positive-negative" Diabetes Status
+![alt text](https://github.com/ryzary/diabetes-risk/blob/main/img/symptoms_occurence_pn.png)
+
+### Number of Cases on Different Age Groups
+![alt text](https://github.com/ryzary/diabetes-risk/blob/main/img/class_age_group.png)
 
 
 ## Model Accuracy
 - Logistic Regression: 0.92
-- Random Forest Classifier: 0.99
+- Random Forest Classifier: 0.979 (10-fold Cross-validation)
 
 
 
