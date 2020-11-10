@@ -23,7 +23,7 @@ Age, Gender, Polyuria, Polydipsia, Polyphagia, Irritability, Delayed healing, Ge
 
 ## Model Accuracy
 - Logistic Regression: 0.92
-- Random Forest Classifier: 0.99
+- Random Forest Classifier: 0.979 (10-fold mean cross-validation score)
 
 
 
